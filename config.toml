@@ -54,7 +54,7 @@ spotify_subscribe = "https://open.spotify.com/show/6v4w3uI3y3PzDfzaJToiuE"
 # mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 # rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Ist es gar - oder gar-nichts?"
-media_prefix = "https://ia601402.us.archive.org/20/items/halbgar"
+media_prefix = "https://ia601402.us.archive.org/20/items/halbgar/"
 disqusShortname = ""
 
   [params.feed]
