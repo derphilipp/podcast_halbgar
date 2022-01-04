@@ -40,7 +40,7 @@ enable_jumbo = "true"
 # truncate = "100"
 #01_es_war_einmal.mp3
 # https://ia801504.us.archive.org/17/items/redhuhn/02_die_axt_im_haus_erspart_den_zimmermann.mp3
-about_logo = "https://archive.org/download/halbgar/halbgar.png"
+about_logo = "https://archive.org/download/halbgar/halbgar.jpg"
 copyright_notice = "Copyright 2022 [Philipp Weißmann](https://www.philipp-weissmann.de)"
 itunes_subscribe = "https://podcasts.apple.com/de/podcast/halbgar-podcast/id1500137124"
 # itunes_subscribe = "https://podcasts.apple.com/us/podcast/arrested-devops/id773888088?ign-mpt=uo%3D4&mt=2"
@@ -64,7 +64,7 @@ disqusShortname = ""
     itunes_summary = "Ist es gar - oder gar-nichts?" # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Philipp Weißmann"
     itunes_owner_email = "mail@philipp-weissmann.de" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
-    itunes_image = "https://archive.org/download/halbgar/halbgar.png" #fqdn to the image art for your podcast
+    itunes_image = "https://archive.org/download/halbgar/halbgar.jpg" #fqdn to the image art for your podcast
     itunes_top_category = "Leisure"
     itunes_first_sub_category = "Hobbies"
     # itunes_second_sub_category = "Tech News"
@@ -79,7 +79,7 @@ disqusShortname = ""
     subscribe_title = ""              # fallback: site title from above
     subscribe_subtitle = ""           # fallback: ""
     subscribe_description = ""        # fallback: ""
-    subscribe_cover = "https://archive.org/download/halbgar/halbgar.png"  # fallback: ""
+    subscribe_cover = "https://archive.org/download/halbgar/halbgar.jpg"  # fallback: ""
     subscribe_color = "#585e6c"       # fallback: ""
     subscribe_size = "medium"         # options: small, medium, big
     subscribe_format = "rectangle"    # options: rectangle, square, cover

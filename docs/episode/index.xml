@@ -30,10 +30,10 @@
       <itunes:name>Philipp Weißmann</itunes:name>
       <itunes:email>mail@philipp-weissmann.de</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://archive.org/download/halbgar/halbgar.png" />
-    <googleplay:image href="https://archive.org/download/halbgar/halbgar.png"></googleplay:image>
+    <itunes:image href="https://archive.org/download/halbgar/halbgar.jpg" />
+    <googleplay:image href="https://archive.org/download/halbgar/halbgar.jpg"></googleplay:image>
     <image>
-      <url>https://archive.org/download/halbgar/halbgar.png</url>
+      <url>https://archive.org/download/halbgar/halbgar.jpg</url>
       <title>Halbgar</title>
       <link>https://derphilipp.github.io/podcast_halbgar/</link>
     </image>
